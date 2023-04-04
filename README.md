@@ -1,4 +1,4 @@
-# Linux Commands and Shell Scripting - Final-Project
+# Linux Commands and Shell Scripting - Final Project
 Scenario
 ********
 You are a lead linux developer at the top-tech company "ABC International INC." ABC currently suffers from a huge bottleneck - each day, interns must painstakingly 
